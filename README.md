@@ -67,3 +67,8 @@ jshint
 grunt jshint
 ```
 
+Yeoman boilerplate
+
+*Yeoamn
+*Phaser Game Engine
+*RequireJs
